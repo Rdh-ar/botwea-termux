@@ -19,7 +19,7 @@
 
 ## Information
 - Ubah Nama kontak owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L101)
-- Ubah Nama Bot [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L102)
+- Ubah Nama Creator [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L102)
 - Ubah Nomer owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L322)
 - Ubah prefix [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L105)
 - Ubah apikey Mhank Bar 2x [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L273)
