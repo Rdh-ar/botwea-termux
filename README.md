@@ -1,4 +1,4 @@
-### Moshi Moshi~ I'm Nazwa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshi Moshi~ I'm ANKER<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <details>
 
 <summary>🍙 Help me!</summary>
@@ -65,3 +65,9 @@ CEK SENDIRI GAN
 
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [MHANK BAR BAR](https://github.com/MhankBarBar)
+- [ RIZKY ]
+- [ ARMAN ]
+- [ RENANDO ]
+- [ MHANKBARBAR ]
+- [ AKBAR ]
+- [ ANKER ]
