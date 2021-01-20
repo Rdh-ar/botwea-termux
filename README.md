@@ -18,7 +18,13 @@
 ---
 
 ## Information
-- Change BarBarKey on [this section](https://github.com/NazwaS/termux-whatsapp-bot/blob/main/index.js#L289)
+- Ubah Nama kontak owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L101)
+- Ubah Nama Bot [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L102)
+- Ubah Nomer owner [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L322)
+- Ubah prefix [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L105)
+- Ubah apikey Mhank Bar 2x [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L273)
+- Ubah vhtear [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L275)
+- Ubah Nomer Bug Report [this section](https://github.com/4NK3R-PRODUCT1ON/botwea-termux/blob/main/index.js#L5578)
 
 ---
 
