@@ -1,0 +1,2 @@
+# botwea-termux
+BOT WEA FULL FITUR TERBARU 2020
