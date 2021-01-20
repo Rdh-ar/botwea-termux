@@ -57,7 +57,5 @@ CEK SENDIRI GAN
 
 ## Special Thanks To
 
-- [RyzRdy](https://github.com/RyzRdy)
-- [Paritsod](https://github.com/Paritsod)
-- [mrfzvx12](https://github.com/mrfzvx12)
-- [Mr-hadi](https://github.com/Mr-hadi)
+- [Baileys](https://github.com/adiwajshing/Baileys)
+- [MHANK BAR BAR](https://github.com/MhankBarBar)
