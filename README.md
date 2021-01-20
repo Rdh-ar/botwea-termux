@@ -1,5 +1,4 @@
 ### Moshi Moshi~ I'm ANKER<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
-<details>
 
 🍙 Help me!
 
