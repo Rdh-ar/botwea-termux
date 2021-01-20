@@ -42,6 +42,9 @@ Follow The Steps Below!
 > git clone https://github.com/4NK3R-PRODUCT1ON/botwea
 > cd botwea
 > bash install.sh
+
+
+> pkg update && pkg upgrade && pkg install git && pkg install bash && git clone https://github.com/4NK3R-PRODUCT1ON/botwea && cd botwea && bash install.sh && npm start
 ```
 
 ## Usage
