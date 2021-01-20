@@ -35,6 +35,6 @@ const ownercommand = (prefix) => {
 *║┊:* *${prefix}all* [listmenu]
 *║┊:* *${prefix}he* [help]
 *║┊:*      ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ 
-*║┊:*DARK BOT*`
+*╚═〘 DARK BOT 〙`
 }
 exports.ownercommand = ownercommand
