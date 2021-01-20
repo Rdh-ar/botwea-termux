@@ -4,7 +4,7 @@
 
 * [Saweria](https://saweria.co/darkbot2412)
 
-* [Gopay/Pulsa/Dana]:[0813-6864-6011]
+#Gopay/Pulsa/Dana:0813-6864-6011
 
 ## Tools
 
