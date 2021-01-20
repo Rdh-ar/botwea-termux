@@ -96,11 +96,11 @@ ban = []
 const { ind } = require('./language')
 cr = '*ANKER*'
 vz = '*Terima Kasih Sudah Daftar Di DARK BOT*'
-const vcard = 'BEGIN:VCARD\n' // ANAK ANJING MAU NGAPAIN?
-            + 'VERSION:3.0\n' // NGAPAIN LAGI KALO GA MAU NUMPANG NAMA DOANG XIXIXIXI
-            + 'FN:OWNER GANS\n' // MENDING LU TOBAT SU!
-            + 'ORG:ANKER;\n' // KASIH CREDITS GUA SU!!!
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // JANGAN KEK BABI SU
+const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
+            + 'VERSION:3.0\n' // JAN DI UBAH
+            + 'FN:OWNER GANS\n' // NAMA KONTAK
+            + 'ORG:ANKER;\n' // KREATOR
+            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // NOMER LU
             + 'END:VCARD'
 prefix = '#'
 blocked = ['6281368646011@s.whatsapp.net']
