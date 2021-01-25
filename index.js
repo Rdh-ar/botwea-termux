@@ -211,15 +211,15 @@ async function starts() {
 		console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code above'))
 	})
 	client.on('credentials-updated', () => {
-		fs.writeFileSync('./xptn.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
-		info('2', 'SABAR GAN...')
+		fs.writeFileSync('./BarBar.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
+		info('2', 'Login Info Updated')
 	})
-	fs.existsSync('./xptn.json') && client.loadAuthInfo('./xptn.json')
+	fs.existsSync('./BarBar.json') && client.loadAuthInfo('./BarBar.json')
 	client.on('connecting', () => {
-		start('2', 'Loding Sedang Connection...')
+		start('2', 'Connecting...')
 	})
 	client.on('open', () => {
-		success('2', 'Loding Sedang Connection...')
+		success('2', 'Connected')
 	})
 	await client.connect({timeoutMs: 30*1000})
 
