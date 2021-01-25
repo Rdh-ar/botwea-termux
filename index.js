@@ -99,7 +99,7 @@ vz = '*Terima Kasih Sudah Daftar Di DARK BOT*'
 const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH 
             + 'FN:OWNER GANS\n' // NAMA KONTAK
-            + 'ORG:ANKER;\n' // KREATOR
+            + 'ORG:ANKER;\n' // CREATOR
             + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // NOMER LU
             + 'END:VCARD'
 prefix = '#'
@@ -212,14 +212,14 @@ async function starts() {
 	})
 	client.on('credentials-updated', () => {
 		fs.writeFileSync('./xptn.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
-		info('2', 'SABAR YA SAYANG')
+		info('2', 'SABAR GAN...')
 	})
 	fs.existsSync('./xptn.json') && client.loadAuthInfo('./xptn.json')
 	client.on('connecting', () => {
-		start('2', 'Loding Mencari Doi Baru...')
+		start('2', 'Loding Sedang Connection...')
 	})
 	client.on('open', () => {
-		success('2', 'Loding Mencari Doi Baru')
+		success('2', 'Loding Sedang Connection...')
 	})
 	await client.connect({timeoutMs: 30*1000})
 
