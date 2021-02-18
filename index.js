@@ -98,8 +98,8 @@ cr = '*ANKER*'
 vz = '*Terima Kasih Sudah Daftar Di DARK BOT*'
 const vcard = 'BEGIN:VCARD\n' // JAN DI UBAH
             + 'VERSION:3.0\n' // JAN DI UBAH 
-            + 'FN:OWNER GANS\n' // NAMA KONTAK
-            + 'ORG:ANKER;\n' // CREATOR
+            + 'FN:OWNER GANS\n' // MR-R4FF
+            + 'ORG:ANKER;\n' // ridho_arrafi
             + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // NOMER LU
             + 'END:VCARD'
 prefix = '#'
